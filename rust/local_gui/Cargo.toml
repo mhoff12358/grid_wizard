@@ -1,0 +1,11 @@
+[package]
+name = "local_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gridwizard = { path = ".." }
+egui = "*"
+eframe = "*"
+egui_extras = "*"
+env_logger = "*"

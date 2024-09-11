@@ -1,0 +1,6 @@
+[submodule "di_context"]
+	path = di_context
+	url = ./rust/deps/di_context
+[submodule ".\\rust\\deps\\di_context\\"]
+	path = .\\rust\\deps\\di_context\\
+	url = git@github.com:mhoff12358/di_context.git
